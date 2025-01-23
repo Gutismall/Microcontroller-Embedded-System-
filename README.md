@@ -27,8 +27,3 @@ The system is built for the **PIC32 microcontroller**, a 32-bit MCU well-suited 
 4. Interact with the system using the peripherals (buttons, switches, LCD, keypad, etc.).
 
 ## Demo Video
-Once the project is uploaded to the Git repository, add your demo video to the `media` directory and reference it here.
-
-<video src="Test Demo.m4v" controls width="600">
-  Your browser does not support the video tag.
-</video>
