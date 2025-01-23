@@ -27,3 +27,7 @@ The system is built for the **PIC32 microcontroller**, a 32-bit MCU well-suited 
 4. Interact with the system using the peripherals (buttons, switches, LCD, keypad, etc.).
 
 ## Demo Video
+
+
+https://github.com/user-attachments/assets/780fd8df-2b61-4fea-ae7c-f94938050872
+
